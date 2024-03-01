@@ -9,9 +9,9 @@ We recommend the following operating environment:
 - And other packages
 
 ### Data Preparation
-We use NExT-QA as an example to help get farmiliar with the code. You can download the pre-computed features [[Baidu Pan](https://pan.baidu.com/s/1Hm-BFv0epUpJhHJMPkyKsA), password: g8wv] and trained models.
+We use NExT-QA as an example to help get farmiliar with the code. You can download the pre-computed features [[Baidu Pan](https://pan.baidu.com/s/1Ekk0Ugzn6VXHtLR_LD-BYg), password: mluz] and trained models [[Baidu Pan](https://pan.baidu.com/s/1rWFf8LPnyosMQijWBvJ4TQ?pwd=5bom), password: 5bom].
 
-- Please download this three datasets, and put them in the `./datasets/` folder.
+- Please download and put it in the new created `./datasets/nextqa/` folder.
 
 ### Demo 
 Our model can be trained and verified by the following command:
