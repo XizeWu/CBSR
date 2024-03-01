@@ -3,9 +3,9 @@ Collaborative Aware Bidirectional Semantic Reasoning for Video Question Answerin
 
 ### Recommendation
 We recommend the following operating environment:
-- Python == 3.6.x
-- Pytorch == 1.8.1 + cu102
-- Torchvision == 0.9.1 +cu102
+- Python == 3.10.x
+- Pytorch == 1.13.1 + cu117
+- Torchvision == 0.14.1 +cu117
 - And other packages
 
 ### Data Preparation
